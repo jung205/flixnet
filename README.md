@@ -18,7 +18,7 @@ PpjFUAR
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/IgKwQD2" width=250><br>
+![]()
 
 ### Notes
 I faced a challenge where I couldn't get the MovieCell to render. What I did was make a post on the Codepath forum, then
