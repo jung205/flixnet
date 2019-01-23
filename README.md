@@ -16,9 +16,9 @@ PpjFUAR
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-### App Walkthough GIF
+### App Wtake2.gifalkthough GIF
 
-![](cs490 assign2 take2.gif)
+![](cs490assign2take2.gif)
 
 ### Notes
 I faced a challenge where I couldn't get the MovieCell to render. What I did was make a post on the Codepath forum, then
