@@ -18,7 +18,7 @@ PpjFUAR
 
 ### App Walkthough GIF
 
-![]()
+![](cs490 assign2 take2.gif)
 
 ### Notes
 I faced a challenge where I couldn't get the MovieCell to render. What I did was make a post on the Codepath forum, then
